@@ -1,0 +1,8 @@
+REQUIREMENT
+　　* 優先度に応じて色付け(赤、黄、青)
+  * タップで編集画面
+  * タブでステータス切り替え(ALL, DONE, UNDONE)
+  * 機能ボタンでTODO登録
+
+DATA STRUCTURE
+  | TASK(varchar(256) | DEADLINE(datetime) | PRIORITY(tinyint) | STATUS(tinyint) |
